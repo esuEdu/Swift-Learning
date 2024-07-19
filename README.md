@@ -31,7 +31,6 @@ Here are some recommended resources to supplement your learning:
 - [Swift.org](https://swift.org)
 - [The Swift Programming Language Guide](https://docs.swift.org/swift-book/)
 - [Swift Standard Library Documentation](https://developer.apple.com/documentation/swift/swift_standard_library)
-- [Ray Wenderlich Swift Tutorials](https://www.raywenderlich.com/swift)
 - [Hacking with Swift](https://www.hackingwithswift.com)
 
 ## License
