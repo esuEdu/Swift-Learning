@@ -2,19 +2,6 @@
 
 Welcome to the Pure Swift Learning Repository! This repository is designed to help you learn and master the Swift programming language without relying on any external frameworks.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Projects](#projects)
-- [Goals](#goals)
-- [Resources](#resources)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## Overview
 
 This repository contains a series of projects and exercises focused on pure Swift. The aim is to deepen your understanding of Swift by exploring its core features and standard library capabilities.
