@@ -1,6 +1,6 @@
 # Swift Learning Repository
 
-Welcome to the Pure Swift Learning Repository! This repository is designed to help you learn and master the Swift programming language without relying on any external frameworks.
+Welcome to the Swift Learning Repository! This repository is designed to help you learn and master the Swift programming language without relying on any external frameworks.
 
 ## Overview
 
